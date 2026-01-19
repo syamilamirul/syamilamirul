@@ -29,15 +29,15 @@ Hi my name is Syamil.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=syarief02&theme=react&show_icons=true&)
 --->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syamillll&theme=react&card_width=470)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syamilamirul&theme=react&card_width=470)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syamillll&card_width=495&langs_count=7&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syamilamirul&card_width=495&langs_count=7&layout=compact&theme=react)
 
-<a href="https://github.com/syamillll">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamillll&theme=radical" />
+<a href="https://github.com/syamilamirul">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syamilamirul&theme=radical" />
 </a>
-<a href="https://github.com/syamillll">
-   <img align="top" src="https://github-readme-stats.vercel.app/api?username=syamillll&theme=radical&show_icons=true" />
+<a href="https://github.com/syamilamirul">
+   <img align="top" src="https://github-readme-stats.vercel.app/api?username=syamilamirul&theme=radical&show_icons=true" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4daec8,100:091519&height=100&section=footer" />
