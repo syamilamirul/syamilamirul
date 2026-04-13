@@ -5,9 +5,7 @@
 I'm Syamil - Full Stack Developer.
 
 [![Mail Badge](https://img.shields.io/badge/-syamil.d3v@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:syamil.d3v@gmail.com)
-# [![Instagram Badge](https://img.shields.io/badge/-@aizadabdullah_-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://www.instagram.com/aizadabdullah_/) 
 [![Linkedin Badge](https://img.shields.io/badge/-syamil--amirul-0284c7?style=flat&labelColor=0284c7&logo=instatus&logoColor=white)](www.linkedin.com/in/syamil-amirul) 
-# [![Tiktok](https://img.shields.io/badge/-@aizadabdullah-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@aizadabdullah)
 [![](https://komarev.com/ghpvc/?username=aizad1997&color=blue&label=Profile%20Views)](https://github.com/syamilamirul)
 [![](https://img.shields.io/github/followers/aizad1997?label=GitHub%20Followers)](https://github.com/syamilamirul)
 
