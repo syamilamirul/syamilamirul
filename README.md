@@ -17,7 +17,9 @@
 
 ### Statistics
 
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=syamilamirul&theme=react&show_icons=true&)
+-->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=syamilamirul&theme=react&card_width=470)
 
