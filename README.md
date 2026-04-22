@@ -13,11 +13,7 @@
 
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,anaconda,cloudflare,powershell)
-
-### Others
-
-![My Skills](https://skillicons.dev/icons?i=npm,yarn,bun,github,stackoverflow)
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,anaconda,cloudflare,powershell,npm,bun,github,stackoverflow)
 
 ### Statistics
 
